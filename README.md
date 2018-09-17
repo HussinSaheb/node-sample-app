@@ -1,4 +1,4 @@
-# Hussin's change
+# Hussin's changes
 # Sparta Node Sample App
 
 ## Description
